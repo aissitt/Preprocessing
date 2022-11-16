@@ -4,11 +4,11 @@ Files originally created to manipulate UOT32 data.
 
 Most files expect data in the format: 
 
-input/
-    class1/
-        img1.jpg
-        img2.jpg
-        ...
-    class2/
-        imgWhatever.jpg
-        ...
+input/__
+    class1/__
+        img1.jpg__
+        img2.jpg__
+        ...__
+    class2/__
+        imgWhatever.jpg__
+        ...__
